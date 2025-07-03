@@ -1,4 +1,4 @@
-# 📊 IBM HR Analytics Dashboard – Tableau Embedded App
+# 📊 IBM HR Analytics Dashboard – Tableau
 
 This project features an interactive **HR Analytics Dashboard** built with **Tableau Public** and integrated into a responsive **HTML + Bootstrap** interface. It enables real-time analysis of workforce data segmented by gender, job role, and marital status.
 
